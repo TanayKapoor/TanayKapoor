@@ -1,6 +1,6 @@
 ### Hi there, I'm Tanay
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodebea.blogspot.com)](https://codebea.blogspot.com)
+[![Website](https://img.shields.io/website?label=codebea&style=for-the-badge&url=https%3A%2F%2Fcodebea.blogspot.com)](https://codebea.blogspot.com)
 
 ## I'm a Developer and a Student!
 
@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-[<img alt="codegea" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="Tanay Kapoor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="its.tkaay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="codegea" width="22px" src="./Assets/Techlogo/104-1049388_world-wide-web-logo-vector-transparent-background-website.png" />][website]
+[<img alt="Tanay Kapoor | LinkedIn" width="22px" src="./Assets/Techlogo/Linkedin-logo-icon-png.png" />][linkedin]
+[<img alt="its.tkaay | Instagram" width="22px" src="./Assets/Techlogo/instagram-logo-svg-vector-for-print.svg" />][instagram]
 <br />
 
 ### Tools:
@@ -34,6 +34,13 @@
 [<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][repos]
 [<img alt="Kotlin" width="26px" src="./Assets/Techlogo/Kotlin Full Color Logo Mark RGB.png" />][repos]
 [<img alt="Java" width="26px" src="./Assets/Techlogo/java.png" />][repos]
+[<img alt="Python" width="26px" src="./Assets/Techlogo/2048px-Python-logo-notext.svg.png" />][repos]
+[<img alt="C" width="26px" src="./Assets/Techlogo/C_Logo.png" />][repos]
+[<img alt="CPP" width="26px" src="./Assets/Techlogo/306px-ISO_C++_Logo.svg.png" />][repos]
+[<img alt="MongoDB" width="26px" src="./Assets/Techlogo/mongodb.png" />][repos]
+[<img alt="MySQL" width="26px" src="./Assets/Techlogo/pngkit_mysql-logo-png_3362833.png" />][repos]
+[<img alt="Github" width="26px" src="./Assets/Techlogo/pngkit_cat-png-transparent_583631.png" />][repos]
+[<img alt="Github" width="26px" src="./Assets/Techlogo/Git-Icon-1788C.png" />][repos]
 
 [website]: https://codebea.blogspot.com
 [linkedin]: https://www.linkedin.com/in/tanaykapoor/
