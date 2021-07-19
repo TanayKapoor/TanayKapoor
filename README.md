@@ -19,13 +19,21 @@
 [<img alt="its.tkaay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-### Languages and Tools:
+### Tools:
 [<img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs]
 [<img  alt="Intelli-j" width="26px" src="./Assets/Techlogo/icon-intellij-idea.png" />][ij]
 [<img  alt="Py-charm" width="26px" src="./Assets/Techlogo/icon-pycharm.png" />][ij]
+[<img  alt="web-strom" width="26px" src="./Assets/Techlogo/icon-webstorm.png" />][ij]
+[<img  alt="c-lion" width="26px" src="./Assets/Techlogo/icon_CLion.png" />][ij]
+
+### Languages: 
 [<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][html]
-[<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][]
+[<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][html]
+[<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][repos]
+[<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][repos]
+[<img alt="Kotlin" width="26px" src="./Assets/Techlogo/Kotlin Full Color Logo Mark RGB.png" />][repos]
+[<img alt="Java" width="26px" src="./Assets/Techlogo/java.png" />][repos]
 
 [website]: https://codebea.blogspot.com
 [linkedin]: https://www.linkedin.com/in/tanaykapoor/
@@ -33,3 +41,5 @@
 [ij]: https://www.jetbrains.com/
 [vs]: https://code.visualstudio.com/insiders/
 [html]: https://github.com/TanayKapoor/HTMLS
+[react]: https://github.com/TanayKapoor/React-Covid-Tracker
+[repos]: https://github.com/TanayKapoor?tab=repositories
