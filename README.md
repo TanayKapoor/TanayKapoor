@@ -21,6 +21,7 @@
 
 ### Tools:
 [<img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs]
+[<img  alt="Visual Studio" width="26px" src="./Assets/Techlogo/Brand_Visual_Studio_Win_2019.png" />][vs]
 [<img  alt="Intelli-j" width="26px" src="./Assets/Techlogo/icon-intellij-idea.png" />][ij]
 [<img  alt="Py-charm" width="26px" src="./Assets/Techlogo/icon-pycharm.png" />][ij]
 [<img  alt="web-strom" width="26px" src="./Assets/Techlogo/icon-webstorm.png" />][ij]
