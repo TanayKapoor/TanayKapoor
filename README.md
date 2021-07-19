@@ -26,6 +26,7 @@
 [<img  alt="Py-charm" width="26px" src="./Assets/Techlogo/icon-pycharm.png" />][ij]
 [<img  alt="web-strom" width="26px" src="./Assets/Techlogo/icon-webstorm.png" />][ij]
 [<img  alt="c-lion" width="26px" src="./Assets/Techlogo/icon_CLion.png" />][ij]
+[<img alt="Github" width="26px" src="./Assets/Techlogo/pngkit_cat-png-transparent_583631.png" />][repos]
 
 ### Languages: 
 [<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -40,7 +41,6 @@
 [<img alt="CPP" width="26px" src="./Assets/Techlogo/306px-ISO_C++_Logo.svg.png" />][repos]
 [<img alt="MongoDB" width="26px" src="./Assets/Techlogo/mongodb.png" />][repos]
 [<img alt="MySQL" width="26px" src="./Assets/Techlogo/pngkit_mysql-logo-png_3362833.png" />][repos]
-[<img alt="Github" width="26px" src="./Assets/Techlogo/pngkit_cat-png-transparent_583631.png" />][repos]
 [<img alt="Github" width="26px" src="./Assets/Techlogo/Git-Icon-1788C.png" />][repos]
 
 [website]: https://codebea.blogspot.com
