@@ -5,7 +5,6 @@
 ## I'm a Developer and a Student!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Practice Datastructures in more languages!
 - ⚡ Fun fact: I love to make digital art / drawings
 
 ### Spotify Playing 🎧
