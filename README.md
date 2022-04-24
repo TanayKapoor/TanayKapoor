@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to make digital art / drawings
+- 👨‍💻 Competitive Coder
 
 ### Spotify Playing 🎧
 
