@@ -41,7 +41,8 @@
 [<img alt="CPP" width="26px" src="./Assets/Techlogo/306px-ISO_C++_Logo.svg.png" />][repos]
 [<img alt="MongoDB" width="26px" src="./Assets/Techlogo/mongodb.png" />][repos]
 [<img alt="MySQL" width="26px" src="./Assets/Techlogo/pngkit_mysql-logo-png_3362833.png" />][repos]
-[<img alt="Github" width="26px" src="./Assets/Techlogo/Git-Icon-1788C.png" />][repos]
+[<img alt="Github" width="26px" src="./Assets/Techlogo/Git-Icon-1788C.png" />][repos] 
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayKapoor)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats for nerds:
