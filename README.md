@@ -42,8 +42,9 @@
 [<img alt="MongoDB" width="26px" src="./Assets/Techlogo/mongodb.png" />][repos]
 [<img alt="MySQL" width="26px" src="./Assets/Techlogo/pngkit_mysql-logo-png_3362833.png" />][repos]
 [<img alt="Github" width="26px" src="./Assets/Techlogo/Git-Icon-1788C.png" />][repos]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayKapoor)](https://github.com/anuraghazra/github-readme-stats)
 
-### Stats for nerds 
+### Stats for nerds:
 [![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKapoor)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codebea.blogspot.com
