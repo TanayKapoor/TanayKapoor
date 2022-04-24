@@ -46,7 +46,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayKapoor&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats for nerds:
-[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKapoor_count=8&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKapoor&langs_count=8&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codebea.blogspot.com
 [linkedin]: https://www.linkedin.com/in/tanaykapoor/
