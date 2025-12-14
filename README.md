@@ -1,6 +1,6 @@
 ### Hi there, I'm Tanay
 
-[![Website](https://img.shields.io/website?label=codebea&style=for-the-badge&url=https%3A%2F%2Fcodebea.blogspot.com)](https://codebea.blogspot.com)
+[![Website](https://img.shields.io/website?label=codebea&style=for-the-badge&url=https%3A%2F%2Fcodebea.blogspot.com)](https://hi-tanay.in)
 
 ## I'm a Developer and a Student!
 
