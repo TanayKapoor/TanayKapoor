@@ -19,7 +19,7 @@
 
 ## 🎧 Spotify — Now Playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjgyjlxymxcyury53tvk7kqb7q&cover_image=true)]
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjgyjlxymxcyury53tvk7kqb7q&cover_image=true)
 
 ---
 
