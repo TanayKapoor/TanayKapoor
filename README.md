@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tanaykap&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=tanaykap&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjgyjlxymxcyury53tvk7kqb7q&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
