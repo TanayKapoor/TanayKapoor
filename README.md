@@ -19,9 +19,6 @@
 
 ## 🎧 Spotify — Now Playing
 
-> ⚠️ Spotify cards may not render on GitHub mobile.  
-> This is a GitHub limitation, not a README issue.
-
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjgyjlxymxcyury53tvk7kqb7q&cover_image=true)]
 (https://github.com/kittinan/spotify-github-profile)
 
@@ -45,10 +42,8 @@
 ---
 
 ## 📊 GitHub Stats  
-*(Latest official integration)*
 
-[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanaykapoor)]
-(https://github.com/tanaykapoor)
+[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanaykapoor)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaykapoor)]
 (https://github.com/tanaykapoor)
