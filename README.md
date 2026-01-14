@@ -2,74 +2,58 @@
 
 **Full-stack Developer • Competitive Programmer • Digital Artist**
 
-[![Website](https://img.shields.io/website?label=hi-tanay.in&style=for-the-badge&url=https%3A%2F%2Fhi-tanay.in)](https://hi-tanay.in)
+[![Website](https://img.shields.io/badge/Website-hi--tanay.in-blue?style=for-the-badge)](https://hi-tanay.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanay%20Kapoor-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanaykapoor/)
+[![Instagram](https://img.shields.io/badge/Instagram-its.tkaay-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/its.tkaay/)
 
 ---
 
-### About Me
+## About Me
 
 - 👨‍💻 Developer focused on building and learning continuously  
 - 🧠 Competitive coding & problem-solving  
 - 🎨 Digital art and visual experiments  
-- 🌱 Exploring new tech, frameworks, and ideas  
+- 🌱 Exploring new tech and frameworks  
 
 ---
 
-### 🎧 Spotify — Now Playing
+## 🎧 Spotify — Now Playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjgyjlxymxcyury53tvk7kqb7q&cover_image=true&theme=spotify-embed&background_color=121212&bar_color=53b14f&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+> Note: Spotify cards may not render on GitHub mobile.  
+> This is a GitHub limitation, not a README issue.
 
----
-
-### Connect With Me
-
-[![Website](./Assets/Techlogo/104-1049388_world-wide-web-logo-vector-transparent-background-website.png)][website]
-[![LinkedIn](./Assets/Techlogo/Linkedin-logo-icon-png.png)][linkedin]
-[![Instagram](./Assets/Techlogo/instagram-logo-svg-vector-for-print.svg)][instagram]
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjgyjlxymxcyury53tvk7kqb7q&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
-### Tools & IDEs
+## Tools & Technologies
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="26" />
-<img src="./Assets/Techlogo/Brand_Visual_Studio_Win_2019.png" width="26" />
-<img src="./Assets/Techlogo/icon-intellij-idea.png" width="26" />
-<img src="./Assets/Techlogo/icon-pycharm.png" width="26" />
-<img src="./Assets/Techlogo/icon-webstorm.png" width="26" />
-<img src="./Assets/Techlogo/icon_CLion.png" width="26" />
+**Languages & Frameworks**
 
----
-
-### Languages & Technologies
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="26" />
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="26" />
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="26" />
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="26" />
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="26" />
-<img src="./Assets/Techlogo/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.png" width="26" />
-<img src="./Assets/Techlogo/java.png" width="26" />
-<img src="./Assets/Techlogo/2048px-Python-logo-notext.svg.png" width="26" />
-<img src="./Assets/Techlogo/C_Logo.png" width="26" />
-<img src="./Assets/Techlogo/306px-ISO_C++_Logo.svg.png" width="26" />
-<img src="./Assets/Techlogo/mongodb.png" width="26" />
-<img src="./Assets/Techlogo/pngkit_mysql-logo-png_3362833.png" width="26" />
-<img src="./Assets/Techlogo/Git-Icon-1788C.png" width="26" />
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<!-- Main Stats -->
-![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKapoor&show_icons=true&theme=tokyonight)
+<!-- Latest documented integration -->
+[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKapoor)](https://github.com/TanayKapoor)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayKapoor&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayKapoor)](https://github.com/TanayKapoor)
 
 ---
 
-### Links
+## Repositories
 
-[website]: https://hi-tanay.in  
-[linkedin]: https://www.linkedin.com/in/tanaykapoor/  
-[instagram]: https://www.instagram.com/its.tkaay/  
+🔗 https://github.com/TanayKapoor?tab=repositories
