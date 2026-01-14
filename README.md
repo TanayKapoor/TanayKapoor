@@ -20,7 +20,6 @@
 ## 🎧 Spotify — Now Playing
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjgyjlxymxcyury53tvk7kqb7q&cover_image=true)]
-(https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -40,16 +39,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats  
-
-[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKapoor)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaykapoor)]
-(https://github.com/tanaykapoor)
-
----
-
-## Repositories
-
-🔗 https://github.com/tanaykapoor?tab=repositories
