@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats  
 
-[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanaykapoor)](https://github.com/anuraghazra/github-readme-stats)
+[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKapoor)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaykapoor)]
 (https://github.com/tanaykapoor)
