@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-hi--tanay.in-blue?style=for-the-badge)](https://hi-tanay.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanay%20Kapoor-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanaykapoor/)
-[![Instagram](https://img.shields.io/badge/Instagram-its.tkaay-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/its.tkaay/)
+[![Instagram](https://img.shields.io/badge/Instagram-tanayykapoor-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/tanayykapoor/)
 
 ---
 
@@ -19,16 +19,15 @@
 
 ## 🎧 Spotify — Now Playing
 
-> Note: Spotify cards may not render on GitHub mobile.  
+> ⚠️ Spotify cards may not render on GitHub mobile.  
 > This is a GitHub limitation, not a README issue.
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjgyjlxymxcyury53tvk7kqb7q&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjgyjlxymxcyury53tvk7kqb7q&cover_image=true)]
+(https://github.com/kittinan/spotify-github-profile)
 
 ---
 
 ## Tools & Technologies
-
-**Languages & Frameworks**
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
@@ -45,15 +44,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+*(Latest official integration)*
 
-<!-- Latest documented integration -->
-[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKapoor)](https://github.com/TanayKapoor)
+[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanaykapoor)]
+(https://github.com/tanaykapoor)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayKapoor)](https://github.com/TanayKapoor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaykapoor)]
+(https://github.com/tanaykapoor)
 
 ---
 
 ## Repositories
 
-🔗 https://github.com/TanayKapoor?tab=repositories
+🔗 https://github.com/tanaykapoor?tab=repositories
